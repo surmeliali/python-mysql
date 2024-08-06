@@ -1,0 +1,7 @@
+2024-08-06 01:41:32,640:INFO:Listed all employees
+2024-08-06 01:41:50,117:WARNING:Invalid input during employee insertion: could not convert string to float: ''
+2024-08-06 12:54:54,965:INFO:Listed all employees
+2024-08-06 12:55:17,071:INFO:Generated department summary
+2024-08-06 14:05:56,219:INFO:Listed all employees
+2024-08-06 14:06:39,537:INFO:Listed all employees
+2024-08-06 14:06:56,372:INFO:Generated department summary
